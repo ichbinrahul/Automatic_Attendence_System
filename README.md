@@ -6,8 +6,10 @@ To maintain a discipline and let students grasp utmost knowledge in schools, col
 This system can be implemented in any field where laptop/desktop or even a Raspberry Pi is present. In addition, as the project objectives and the design criteria all met, it’s greatest to say this project is an engineering solution for all university and colleges to track and manage the attendance. Due to Command Line Interface of the system, the entire process is accelerated. The CLI is also designed in such a way it is easy for even first time CLI users. Since the application built uses python with open sourced libraries the application is highly portable. The above application can run on a medium powered android smartphone also with “Termux” with python interpreter installed in it.
 
 ![Camera Setup](https://github.com/ichbinrahul/Automatic_Attendence_System/blob/main/images/camerasetup.jpg?raw=true)
+
 *Picture 1: Camera Setup required for the system (Source: Google)*
 ![Training Workflow](https://github.com/ichbinrahul/Automatic_Attendence_System/blob/main/images/workflow.png?raw=true)
+
 *Picture 2: Process Flow (Source: Google)*
 
 ## Keywords
