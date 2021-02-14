@@ -89,4 +89,4 @@ class Marker:
                 if entry not in present_list_final: 
                     present_list_final.append(entry)
             file_name = self.file_writer(present_list_final)
-            print(f"\nSession ended. Attendence list saved as '{file_name}.txt' in {self.class_name}\\Output folder.\n")
+            print(f"\nSession ended. Attendence list saved as '{file_name}.csv' in {self.class_name}\\Output folder.\n")
